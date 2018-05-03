@@ -1,4 +1,4 @@
-#How to run
+# How to run
 1. download
 2. install node_modules:
 >npm install
